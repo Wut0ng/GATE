@@ -1,0 +1,21 @@
+{
+  "testnet": true,
+  "encrypted_key": "C8jX/rIYTQ+bIde8HO0kpjgftX4JaLfMuN2gKvj/z3E92bYhfkAI0JsrUhxa6V62XMAcEzjawaV2RZ+WA1+qWSFD3iUW4yPLPZmRZWzK4NJHJBGqq0Bp53/Xnmh64C9hS8acm2NIT9HtgrujMyUlJA==",
+  "encrypted_secret": "MTK6dJnWj56iwu9QsHCdKus71Sbx6F7ZJsOU7pBovRpfGn8nP4/Vi2Ok3cA0YoBjiHhhgDGsPlbMdm92BdrnMFbVEnI6+OUHtYOrjeTgy+M11Xnn9l9NwKJ7PlNrsJ+OERfdpFPMOn5dZ4eqOVw9xA==",
+  
+  "encrypted_token": "g9Tzr+Vlm0d73y7wOOY62L3tr9AcJBNJXQRi5Wl438mydtgmy+iYxo2scaQlqgA82z+vjtWKsrcz4HYbctIDXlilB0XD+r5+UyEQY3Kz9pEwWKijJqGe1yCZG+QBfAyNsKZGVqHjcQQm9dzzVkZYvA==",
+  "encrypted_channel": "d8SHh0q9Yvbz3ahfri8mnaskRfOMTTRMpZ+W9R85tSgxxX8nvSXtY5iT+0ouZRta",
+
+  "pair": "BTCBUSD",
+  "leverage": 20,
+  "close_only": false,
+
+  "margin": 1,
+  "increment": 1,
+  "acceleration": 0.1,
+  "close_diff": 6,
+  "order_amount": 20,
+  "order_quantity": 0.002,
+  "max_position": 2.000,
+  "soft_position": 0.750
+}
